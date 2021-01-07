@@ -1,0 +1,14 @@
+Step To Pull File From Remote
+
+	1: git status -> kiểm tra
+	2: git checkout branch -> chọn nhánh thao tác
+	3: git pull origin branch -> cập nhật thay đổitừ remote về local
+	
+
+Step to Push File to Remote
+1:
+2:
+3:
+4:
+
+
